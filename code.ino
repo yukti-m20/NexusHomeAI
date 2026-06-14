@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <Adafruit_INA219.h>
 
-// Adafruit_INA219 ina219;
+Adafruit_INA219 ina219;
 
 #define PIR_PIN 34
 #define LDR_PIN 35
